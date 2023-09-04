@@ -21,8 +21,7 @@ pip install python-telegram-bot schedule pytz
 Setup
 Clone this repository:
 ```bash
-git clone https://github.com/yourusername/telegram-image-posting-bot.git
-cd telegram-image-posting-bot
+git clone https://github.com/Elletre/Jarvissimo.git
 ```
 
 Replace 'YOUR_BOT_TOKEN' with your Telegram bot token in the Python script.
@@ -32,7 +31,7 @@ Configure the IMAGE_FOLDER variable to specify the path to the folder containing
 Run the bot:
 
 ```bash
-python bot.py
+python Jarvissimo.py
 ```
 
 Usage
